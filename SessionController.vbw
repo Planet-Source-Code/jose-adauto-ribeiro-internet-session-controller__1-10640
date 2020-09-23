@@ -1,0 +1,6 @@
+frmSessionController = 11, 44, 359, 288, Z, 22, 22, 370, 266, C
+frmTimeOut = 0, 0, 112, 244, , -14, 82, 334, 326, C
+basSessionController = 110, 110, 339, 354, 
+frmNewTime = 0, 0, 266, 244, , 110, 110, 376, 354, C
+frmResumo = 22, 22, 371, 266, , 0, 0, 349, 244, C
+frmDiario = 66, 66, 415, 310, , 22, 22, 371, 266, C
